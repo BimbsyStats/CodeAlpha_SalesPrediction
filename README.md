@@ -10,6 +10,15 @@ advertising spend across TV, Radio, and Newspaper channels.
 per channel and the resulting sales (in thousands of units). No missing
 values.
 
+## Demo Video
+
+[
+
+![Watch the demo](https://img.youtube.com/vi/iaIH__Q2JCQ/0.jpg)
+
+](https://youtu.be/iaIH__Q2JCQ)
+
+
 ## Approach
 
 1. **Exploration** — summary statistics, correlation of each channel with
